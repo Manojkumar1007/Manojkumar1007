@@ -23,6 +23,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
+### GSSoC-Badges:
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/Manojkumar1007?year=2024Extd)
+
 <!---
 Manojkumar1007/Manojkumar1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
