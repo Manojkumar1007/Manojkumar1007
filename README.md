@@ -65,7 +65,7 @@ I’m open to collaboration, professional networking, and technical discussions.
 
 ---
 
-Thanks for visiting my profile. May your bugs be shallow and your coffee strong.<div align = "center" >
+Thanks for visiting my profile. <div align = "center" >
 
 <!---
   
